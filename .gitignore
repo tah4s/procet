@@ -5,3 +5,37 @@ __pycache__/
 .env
 venv/
 scripts/.git.backup
+
+# IDE / editor
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Editor swap/backup files
+*~
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Distribution / build
+dist/
+build/
+*.egg
+
+# Virtual environment (alternative names)
+.env/
+venv/
+ENV/
+
+# PyCharm
+*.iml
+
+# Node (if any)
+node_modules/
