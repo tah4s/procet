@@ -1,0 +1,6 @@
+# Force text and lf for source files
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.sh text eol=lf
+
